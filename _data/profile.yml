@@ -30,9 +30,7 @@ short_bio: >-
     and multi-modal image synthesis, particularly in the medical domain.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/IMG_3851.HEIC
 
 education:
 - name: Massachusetts Institute of Technology
