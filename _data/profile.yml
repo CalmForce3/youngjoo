@@ -1,6 +1,6 @@
-primary_name: "Your Name"
+primary_name: "Youngjoo Lee"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Youngjoo Lee"
 
 positions:
 - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
@@ -11,7 +11,7 @@ positions:
 email: "cnecen325@gmail.com"
 # cv_link: link-to-your-cv-file
 # This is an example, replace it with your own Google Scholar ID
-github: https://github.com/CalmForce3
+github: https://calmforce3.github.io/youngjoo/
 twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
